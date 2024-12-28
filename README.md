@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋  soy Andrés Ixcajoc ✨ </h1> 
-![Andrés Ixcajoc Banner](https://github.com/AndrewUMG/AndrewUMG/blob/main/Banner%20para%20Github.png)&nbsp;
+![Aditya Kanoi Banner](https://github.com/AndrewUMG/AndrewUMG/blob/main/Banner%20para%20Github.png)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9PPGumiO9Ey8XMFjXwbmAQ)&nbsp;
 
 ### 👨🏻‍💻 &nbsp;Sobre Mí
