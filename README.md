@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Aditya Kanoi Banner](https://github.com/AndrewUMG/AndrewUMG/blob/main/Banner%20para%20Github.png)
 
 <!--
 **AndrewUMG/AndrewUMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
